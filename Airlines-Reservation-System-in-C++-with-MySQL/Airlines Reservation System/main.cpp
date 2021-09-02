@@ -1,4 +1,4 @@
-// Airlines Reservation System - CodeWithC.com
+// Airlines Reservation System 
 
 #include<iostream>
 #include<cstdio>
@@ -128,7 +128,7 @@ int main()
     }
     return 0;
 }
-// Airlines Reservation System - CodeWithC.com
+// Airlines Reservation System 
 // Functions
 void ReserveSeat()
 {
@@ -411,7 +411,7 @@ void FlightDetails()
         break;
     }
 }
-// Airlines Reservation System - CodeWithC.com
+// Airlines Reservation System 
 void AddNewFlight()
 {
     // Initial Load
@@ -780,7 +780,7 @@ void DeleteFlight()
         exit(0);
     }
 }
-// Airlines Reservation System - CodeWithC.com
+// Airlines Reservation System - 
 void FlightLeaveArrive()
 {
     system("cls");
